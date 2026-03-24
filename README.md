@@ -38,7 +38,4 @@ This project uses spatial data to generate isopach maps and analyze reservoir ch
 The dataset used in this project is not publicly available.  
 A sample dataset is provided for demonstration purposes.
 
-## How to Run
-```bash
-pip install -r requirements.txt
-jupyter notebook
+
